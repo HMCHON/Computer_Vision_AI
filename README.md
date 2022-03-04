@@ -23,7 +23,7 @@ _Computer Vision AI Project_
 - Video face recognition
 
 ## Recognition
-- Object detection / recognition :heavy_check_mark: [link1](https://github.com/HMCHON/Computer_Vision_AI/tree/main/Recognition_Project/Image_classification) [link2](https://github.com/HMCHON/Computer_Vision_AI/tree/main/Recognition_Project/object_detection)
+- Object detection / recognition :heavy_check_mark: [link](https://github.com/HMCHON/shipblock-classification)
 - Instance segmentation
 - OCR-3D Mesh reconstruction
 - network pruning / quantization
