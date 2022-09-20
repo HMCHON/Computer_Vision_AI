@@ -24,6 +24,7 @@ _Computer Vision AI Project_
 
 ## Recognition
 - Object detection / recognition :heavy_check_mark: [link](https://github.com/HMCHON/shipblock-classification)
+- Object Tracking :heavy_check_mark: [link](https://github.com/HMCHON/DASS_Distress_Awareness_Situational_System)
 - Instance segmentation
 - OCR-3D Mesh reconstruction
 - network pruning / quantization
